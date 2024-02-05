@@ -17,4 +17,6 @@ function toggleColumn() {
     }
     isHidden = !isHidden;
     console.log("hi!!!");
+
 }
+
