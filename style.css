@@ -26,6 +26,9 @@ button {
   max-width: 100%;
   border-radius: 20%;
 }
+.flex-container .image-column:hover {
+  transform: scale(1.02);
+}
 .column {
   width: 100%;
 }
